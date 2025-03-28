@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Olá! Seja bem-vindo ao meu GitHub
 
-<!--
-**wjcardoso/wjcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional com sólida experiência em ciência de dados aplicada à química analítica, com foco em espectroscopia (Vis-NIR, NIR), cromatografia, estatística e desenvolvimento de modelos preditivos.
 
-Here are some ideas to get you started:
+🔬 Atuação em projetos envolvendo análise de dados espectrais, com ênfase em regressão e classificação, além de Design of Experiments (DoE) e validação de métodos.  
+🤖 Desenvolvimento de automações para otimização de pré-processamentos, geração de relatórios e integração com pipelines analíticos.  
+💻 Experiência com Matlab, Python e R, aplicando machine learning e técnicas estatísticas avançadas.  
+🌱 Sempre aprendendo e explorando novas formas de transformar dados em decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 Me encontre aqui: [LinkedIn](https://www.linkedin.com/in/wjcardoso/)
+
